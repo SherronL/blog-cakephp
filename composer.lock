@@ -288,6 +288,7 @@
             "time": "2019-11-12T10:21:19+00:00"
         },
         {
+<<<<<<< HEAD
             "name": "firebase/php-jwt",
             "version": "v5.1.0",
             "source": {
@@ -414,6 +415,8 @@
             "time": "2019-06-11T06:13:54+00:00"
         },
         {
+=======
+>>>>>>> b33de09be2ac878c82ef99699c5117bf61bbe682
             "name": "mobiledetect/mobiledetectlib",
             "version": "2.8.34",
             "source": {
